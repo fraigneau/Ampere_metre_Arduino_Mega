@@ -44,3 +44,7 @@ libraries scanning project source files.
 
 More information about PlatformIO Library Dependency Finder
 - https://docs.platformio.org/page/librarymanager/ldf.html
+
+Projet effectué avec quelque Lib
+LiquideCrtstal_I2C : https://github.com/johnrickman/LiquidCrystal_I2C
+EmonLib : https://github.com/openenergymonitor/EmonLib
