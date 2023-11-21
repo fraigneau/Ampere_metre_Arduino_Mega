@@ -5,9 +5,9 @@
 - LiquideCrtstal_I2C : https://github.com/johnrickman/LiquidCrystal_I2C
 - EmonLib : https://github.com/openenergymonitor/EmonLib
 
-pensé a bien les installée.
+pensé a bien les installées.
 
 
-## but du projet 
+## But du projet 
 
 dans le principe, utilisé un arduino afin de connaître la consomation réel d'un appareil. 
